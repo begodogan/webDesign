@@ -1,0 +1,174 @@
+#container {
+	min-height: 50px;
+	height: auto;
+	background-color: white;
+}
+
+#top-container {
+	height: 100px;
+	width: 100%;
+	background-color: white;
+}
+
+#logo {
+	text-align: center;
+	line-height: 80px;
+}
+
+#logo img {
+	height: 80px;
+}
+
+.mymenu {
+	height: 80px;
+	text-align: center;
+	line-height: 80px;
+	text-transform: uppercase;
+	background-color: #76ABB0;
+	color: black;
+	font-weight: 500;
+}
+
+.mymenu a {
+	color: black;
+}
+
+.mymenu a:hover {
+	color: blue;
+}
+
+.review h2 {
+	color: #2596be;
+	font-size: 24px;
+}
+
+.review p {
+	color: orange;
+	background-color: white;
+	font-size: 15px;
+}
+
+.review h3 {
+	color: magenta;
+	font-size: 24px;
+}
+
+.about-us-container {
+	margin-top: 30px;
+}
+
+.about-us-header {
+	font-size: 60px;
+	text-align: center;
+}
+
+#slider {
+	min-height: 400px;
+	height: auto;
+}
+
+#slider-img {
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("https://iili.io/d9Hrx0F.jpg");
+	background-size: cover;
+}
+
+#about-slider-img {
+	height: 600px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("https://iili.io/d9HQvnf.th.jpg");
+	background-size: cover;
+}
+
+#review-slider-img {
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("https://iili.io/d9dKHWQ.jpg");
+	background-size: cover;
+}
+#contact-slider-img {
+	height: 400px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image: url("https://iili.io/d9dzk0v.jpg");
+	background-size: cover;
+}
+
+
+#mid-container {
+	background-color: white;
+	min-height: 400px;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 20px;
+}
+
+#mid-container h2 {
+	font-size: 60px;
+	color: #000;
+	margin-bottom: 20px;
+}
+
+#mid-container p {
+	font-size: 30px;
+	color: #828282;
+}
+
+#review-mid-container {
+	background-color: white;
+	min-height: 400px;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	padding: 20px;
+}
+
+.box {
+	background-color: white;
+	height: auto;
+}
+
+.box p {
+	padding: 20px;
+	color: #828282;
+	font-size: 28px;
+	
+}
+.text-left {
+    text-align: left !important; 
+}
+
+#footer {
+	background-color: #FAF0E6;
+	line-height: 50px;
+	height: 50px;
+}
+
+#footer-text {
+	font-family: courier;
+	text-align: center;
+}
+
+#footer-container {
+	line-height: 50px;
+	background-color: black;
+	color: #ffffff;
+	font-size: 11px;
+	bottom: 0px;
+	position: fixed;
+	width: 100%;
+}
+
+.footer-content {
+	text-align: center;
+}
+
